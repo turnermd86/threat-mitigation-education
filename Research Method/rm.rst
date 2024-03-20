@@ -19,7 +19,6 @@ ii.	Run live malware on a vulnerable machine in a sandbox.
 3.	If no signatures exist, attempt to create a detection signature.
 4.	Rescan malware using YARA signatures.
 5.	Document success/failure detection results
-d.	Begin the Instructional Systems Development (ISD) process (Analysis, Design, Development, Implementation, and Evaluation) to create an educational outline for security awareness training.
 
 
 Methodological Approach

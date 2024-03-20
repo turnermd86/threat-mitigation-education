@@ -2,13 +2,6 @@ Recommendations and Implications for Future Research
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 Heading 1
 =========
-Sub Heading 1
--------------
-Sub Heading 2
--------------
-Heading 2
-=========
-Sub Heading 1
--------------
-Sub Heading 2
--------------
+d.	Begin the Instructional Systems Development (ISD) process (Analysis, Design, Development, Implementation, and Evaluation) to create an educational outline for security awareness training.
+
+.. image:: /images/ADDIE.jpg
