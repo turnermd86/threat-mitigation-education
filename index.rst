@@ -10,6 +10,8 @@ Comprehensive documentation outlining experimental procedures, data analysis, an
 initiatives aimed at empowering cyberspace defenders to swiftly detect and respond to encoded commands, 
 bolstering overall cybersecurity resilience.
 
+.. image:: \images\Sentinels Facebook Header 3.png
+
 .. toctree::
    :maxdepth: 2
    :hidden:
