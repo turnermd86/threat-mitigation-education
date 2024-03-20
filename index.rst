@@ -6,7 +6,9 @@
 Welcome to My MSISE Research Project's documentation!
 =====================================================
 
-Hello world
+Comprehensive documentation outlining experimental procedures, data analysis, and security training 
+initiatives aimed at empowering cyberspace defenders to swiftly detect and respond to encoded commands, 
+bolstering overall cybersecurity resilience.
 
 .. toctree::
    :maxdepth: 2
