@@ -10,7 +10,7 @@ This page is a set of comprehensive documentation outlining experimental procedu
 security training initiatives aimed at empowering cyberspace defenders to swiftly detect and respond to 
 encoded commands, bolstering overall cybersecurity resilience.
 
-.. image:: /images/SentinelsFacebookHeader.png
+.. image:: /images/SentinelsFacebookHeader.jpg
 
 .. toctree::
    :maxdepth: 2
