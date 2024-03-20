@@ -6,11 +6,11 @@
 Welcome to My MSISE Research Project's documentation!
 =====================================================
 
-Comprehensive documentation outlining experimental procedures, data analysis, and security training 
-initiatives aimed at empowering cyberspace defenders to swiftly detect and respond to encoded commands, 
-bolstering overall cybersecurity resilience.
+This page is a set of comprehensive documentation outlining experimental procedures, data analysis, and 
+security training initiatives aimed at empowering cyberspace defenders to swiftly detect and respond to 
+encoded commands, bolstering overall cybersecurity resilience.
 
-.. image:: \images\Sentinels Facebook Header 3.png
+.. image:: /images/SentinelsFacebookHeader.png
 
 .. toctree::
    :maxdepth: 2
