@@ -4,7 +4,7 @@ How My Study Was Conducted
 ==========================
 a.	In-depth review of existing literature.
 b.	Source, study, and categorize types of malware that use encoded commands (MalwareBazaar). Goals (static: n=15, live: n=25)
- 
+
 c.	Execute practical aspects of research in a lab environment. 
 i.	Run static malware testing on a machine in a sandbox.
 1.	Conduct default configuration testing. Measure the time and accuracy of the process. Attempt to identify false positives and negatives.
@@ -23,3 +23,7 @@ ii.	Run live malware on a vulnerable machine in a sandbox.
 
 Methodological Approach
 =======================
+a.	Change the characteristics/features of the processes used to determine the nature (malicious or benign) of any encoded commands encountered.
+b.	Determine the detection process’s effectiveness, efficiency, and speed in defining various malicious or benign encoded commands using default configurations/tuned configurations (if applicable) to see the impact on performance and then document results.
+c.	Static testing findings and discussion
+d.	Live testing findings and discussion
