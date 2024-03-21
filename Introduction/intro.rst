@@ -1,7 +1,6 @@
 Introduction
 ++++++++++++
-Attention Grabber
-=================
+
 According to the 2023 Verizon Data Breach Investigations Report, analysts discover approximately 60% of incidents within days of initial activity. However, 20% of the time, it could take months or more before organizations realize that adversaries are on the network. What would you do if you found malicious activity on your network and discovered it had been there for a year? Two years?
 
 Thesis
