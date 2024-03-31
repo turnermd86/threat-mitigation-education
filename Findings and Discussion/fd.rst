@@ -8,7 +8,7 @@ Malware Stats
 
     * - Name
       - Purpose
-      - Type (rtf, exe, xlsx, zip, doc, hta, vbs, dll, rar, or jar)
+      - Type (rtf, exe, xlsx, doc, dll, or jar)
       - Live/Static
       - Detection method
     * - Example Name
@@ -19,7 +19,7 @@ Malware Stats
       
 Detection Configuration
 ========================
-.. list-table:: Malware Stats
+.. list-table:: 
     :widths: 20 10 10
     :header-rows: 1
 
@@ -32,7 +32,7 @@ Detection Configuration
   
 More Info
 ========================
-.. list-table:: Malware Stats
+.. list-table:: 
     :widths: 20 10 10 15
     :header-rows: 1
     
