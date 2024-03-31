@@ -6,6 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../..'))
+
 project = 'My MSISE Research Project'
 copyright = '2024, Matthew Turner'
 author = 'Matthew Turner'
@@ -13,7 +17,27 @@ author = 'Matthew Turner'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_copybutton']
+extensions = [
+	'sphinx.ext.duration',
+	'sphinx.ext.doctest',
+	'sphinx.ext.autodoc',
+	'sphinx.ext.autosummary',
+	'sphinx.ext.inheritance_diagram',
+	'sphinx.ext.napoleon',
+	'sphinx.ext.viewcode',
+	'sphinx.ext.autosectionlabel',
+	'sphinx_copybutton',
+	'myst_parser',
+]
+
+source_suffix = {
+	'.rst': 'restructuredtext',
+	'.txt': 'markdown',
+	'.md': 'markdown',
+}
+
+autosummary_generate = True
+autodoc_member_order = 'bysource'
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
