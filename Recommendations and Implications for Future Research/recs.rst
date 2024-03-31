@@ -2,7 +2,7 @@ Recommendations and Implications for Future Research
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 Instructional System
 ====================
-Instructional Systems Development (ISD) process (Analysis, Design, Development, Implementation, and Evaluation) will create an educational outline for security awareness training.
+This Instructional Systems Development (ISD) process (Analysis, Design, Development, Implementation, and Evaluation) will create an educational outline for security awareness training.
 
 .. image:: /images/ADDIE.jpg
 
