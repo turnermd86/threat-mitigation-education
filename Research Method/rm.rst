@@ -3,7 +3,7 @@ Research Method
 How My Study Was Conducted
 ==========================
 In-depth review of existing literature.
-Source, study, and categorize types of malware that use encoded commands (MalwareBazaar, VXUnderground).
+Source, study, and categorize types of malware that use encoded commands (MalwareBazaar).
 Execute practical aspects of research in a lab environment. 
 Run static malware testing on a machine in a sandbox.
 Conduct default configuration testing. Measure the time and accuracy of the process. Attempt to identify false positives and negatives.

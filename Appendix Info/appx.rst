@@ -51,45 +51,45 @@ rtf
 exe  
 ----------
 
-#. name - sha256 hash::
+#. AgentTesla - sha256 hash::
 
-    hash
+    59494a51618f234021c0dae2d87667ce9e431b8a75a1b4952d3e48bf71492fbb
 
-#. name - sha256 hash::
+#. Smoke Loader - sha256 hash::
 
-    hash
+    2ae29fff50afc21422c12b4e64b055df4d342fb493a667e18b6dda7ad3403857
 
-#. name - sha256 hash::
+#. njrat - sha256 hash::
 
-    hash
+    4a5fdda9ee07e884e1d89612b56a932acb9c812b72cccacde885da0f9b4eab31
 
-#. name - sha256 hash::
+#. SnakeKeylogger - sha256 hash::
 
-    hash
+    430dbb439bf85fd2a8846a43c0b0615305ef25ac8b9496d272c2dbefd3158ed2
 
-#. name - sha256 hash::
+#. RedLineStealer - sha256 hash::
 
-    hash
+    2190623b860d6783e4c6758c057ceecb9023c3b89b824cacc74e6a9c84ed99c1
 
-#. name - sha256 hash::
+#. IcedID - sha256 hash::
 
-    hash
+    9b5498c5c240818198e2eea9d9b8dce18273ea24b167882c9efc030e2643f127
 
-#. name - sha256 hash::
+#. TrickBot - sha256 hash::
 
-    hash
+    0994e0972430f7cf02b66c290b6e62666c14da2ca9ad369e7cf5447313dc8550
 
-#. name - sha256 hash::
+#. Stop - sha256 hash::
 
-    hash
+    2b7bdd0b8bde43d8e9d9a32352a408c5028e2a39c694be064a6ed18d0aa830e7
 
-#. name - sha256 hash::
+#. Miuref - sha256 hash::
 
-    hash
+    22463d93ff44d3e221c9f8ec5b9f0fb561c1f9fd2c797bbc17b35b2d77282d57
 
-#. name - sha256 hash::
+#. BlackMatter - sha256 hash::
 
-    hash
+    1f9944ccc4cb956c4eb81e76d51b3cb048b838f2f746e2017d4492abd5e9ed79
 
 xlsx  
 ------------
