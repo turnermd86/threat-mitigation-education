@@ -137,130 +137,130 @@ xlsx
 doc  
 ----------
 
-#. name - sha256 hash::
+#. AgentTesla - (CVE-2017-11882) sha256 hash::
 
-    hash
+    4610cb0b82c1f82ce2dcd39bef0102534b0e459726262c9e0198bc29b888b29a
 
-#. name - sha256 hash::
+#. Formbook - (CVE-2017-11882) sha256 hash::
 
-    hash
+    85a9c86962ea71b53cd5dfd7bb8aa43a4556b131ba2bf96ac54a430591e2c833
 
-#. name - sha256 hash::
+#. Loki - (CVE-2017-11882) sha256 hash::
 
-    hash
+    747c08f3e6b45582d4c2227f0b64b216e6ab4849728c24099cec65cb16e0a885
 
-#. name - sha256 hash::
+#. StormKitty - (CVE-2017-11882) sha256 hash::
 
-    hash
+    c9a11ceb5fc09797340d8809330d898ce77ed25a2136003f1cce668a8caa10d8
 
-#. name - sha256 hash::
+#. RemcosRAT - (CVE-2017-11882) sha256 hash::
 
-    hash
+    8422180715a44f2f71122379534ff992fd48a484c98940c7cb5bc0013b08326b
 
-#. name - sha256 hash::
+#. GuLoader - sha256 hash::
 
-    hash
+    9f04d9ceedd40335bbe6f337a8e053706b65696329bb045631bfe875800c7e43
 
-#. name - sha256 hash::
+#. Metasploit - sha256 hash::
 
-    hash
+    3185876cb0717e3d8d6afadc8cbb2d439ad01cc3f4e172936b0d0ebc398c082c
 
-#. name - sha256 hash::
+#. AveMariaRAT - (CVE-2017-11882) sha256 hash::
 
-    hash
+    9069c91506f33cff670b372cc2505fc180a18e4dd19fffe381568f6bf7d0b4b9
 
-#. name - sha256 hash::
+#. MassLogger - sha256 hash::
 
-    hash
+    64993027a06a6816de87236edd01f75852bbd6bd593eaf9ab40b8825dfc41744
 
-#. name - sha256 hash::
+#. NanoCore - (CVE-2017-11882) sha256 hash::
 
-    hash
+    2035ffeb7228a0dc0043c2d8fca18646d42b19748317aabfd90edc9a6356a2a1
 
 dll  
 ----------
 
-#. name - sha256 hash::
+#. YellowCockatoo - sha256 hash::
 
-    hash
+    aa376dab5cd54a8a191d13102a0d89d6771db7cb99e4ec341bc8bccd5e1b4107
 
-#. name - sha256 hash::
+#. Grandoreiro - sha256 hash::
 
-    hash
+    794ad887a11149f438ecc886b5dfc6fa0503c26b8e63f48cf0bf2dcc2cdc58bb
 
-#. name - sha256 hash::
+#. JanelaRAT - sha256 hash::
 
-    hash
+    9c5d2ec3e6a2a6a1b98adc0d6a6e022d0ad815cd9ff52a423ed6f91916b0b48e
 
-#. name - sha256 hash::
+#. Amadey - sha256 hash::
 
-    hash
+    305bdfdd37152690828b2538ddc04a4d5a17cf17815f40b69d8ae6c4dd154554
 
-#. name - sha256 hash::
+#. Mekotio - sha256 hash::
 
-    hash
+    a19c0b7b6aa1fd4f5f024a50564b5f85c2431752edc527c0a09928cb8c5eb9fa
 
-#. name - sha256 hash::
+#. ConnectWise - sha256 hash::
 
-    hash
+    8684d345cdc78cc9460541d0924440087e6d47814b1485e0736fcc68077bce12
 
-#. name - sha256 hash::
+#. SystemBC - sha256 hash::
 
-    hash
+    33626834ce190f58584d566022ca50ff38f6b34d0231944ef0d27bd7ab7ae6b7
 
-#. name - sha256 hash::
+#. Gozi - sha256 hash::
 
-    hash
+    949c6b5758c2ad61236d73dbbe8dcaba9dc9ee7ff982348551a244990ac8f0b9
 
-#. name - sha256 hash::
+#. LockBit - sha256 hash::
 
-    hash
+    01e7ba4b23b94269f16bef68f685950b8e036ae0f79aad335123de53e3e43057
 
-#. name - sha256 hash::
+#. Blackmoon - sha256 hash::
 
-    hash
+    38ddef65caed8667cf609413b6f3c6722542239fd6c8e2ce6fb9cc43a2a3ef0e
 
 jar  
 ----------
 
 #. STRRAT - sha256 hash::
 
-    hash
+    ca7072bba9d1b75b02b5d2887fdb7bcb1f86050b669ffd99a7e756e1a60095f2
 
 #. QNodeService - sha256 hash::
 
-    hash
+    fa9f38eab7af9af75840c52af371fa03d5b8aaff79688f2f5be4a013119edad3
 
 #. Ratty - sha256 hash::
 
-    hash
+    9832570f59982ffca53c953d3d58c95e1224ffe236fa401d3e8a2cdfe71b717c
 
 #. Adwind - sha256 hash::
 
-    hash
+    c45df88fca15e293063cb91bb1d87f0e8c2256c1504bee82e426e12e7d5a8a2a
 
 #. JBifrost - sha256 hash::
 
-    hash
+    6ca865e6bdcfe6e64d968ce8076749e63b28846fa958ba7f9b5a032d417d4cc4
 
 #. Vjw0rm - sha256 hash::
 
-    hash
+    b2cfb719020e4c18fe7978bdf369e5c1fae69dd83260308747c608f4bdd8ecdb
 
 #. CobaltStrike - sha256 hash::
 
-    hash
+    b899a9a4c42ec0f193389faf0b06ba04e954ea4348e120964c677b0cd602cdb6
 
 #. Alien - sha256 hash::
 
-    hash
+    0da75ac97f4ec8954a961c270bcbe75bd2671c65cf25db45540b70f1ff403e31
 
 #. jRat - sha256 hash::
 
-    hash
+    2c2e6699405f6fece6adca153c90bdbc58630b10a70b2b92438de04953b5ea12
 
 #. Netwire - sha256 hash::
 
-    hash
+    022a25c3b9a1973f3bf01598cf22ae87640fa8d71c8564bda601c43249df09a9
 
 
