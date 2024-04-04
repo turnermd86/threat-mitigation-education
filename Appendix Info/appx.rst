@@ -143,4 +143,50 @@ jar
 
 #. Netwire - sha256: ``022a25c3b9a1973f3bf01598cf22ae87640fa8d71c8564bda601c43249df09a9``
 
+ISD Notes
+============
 
+ADDIE:
+------
+
+Analysis
+^^^^^^^^^^^^^^
+- Target Audience
+- Skills Background
+- Other Pre-Requisites
+- Resource Analysis
+- Facilities required
+
+  - Classroom
+  - XXXX
+  - XXXX
+
+Design
+^^^^^^^^^^^^^^
+- Task Training List
+
+    - Task 1:
+    - Task X:
+
+- Course Flow / Training Strategy
+
+    - Module 99 - Administrative Actions
+    - Module 10 - XXXX
+    - Module 20 - XXXX
+    - Module 30 - XXXX
+    - Module 40 - XXXX
+    - Module 50 - XXXX
+    - Module 60 - XXXX
+  
+Development
+^^^^^^^^^^^^^^
+This phase is completed by assigned instructors in the organization
+
+Implementation
+^^^^^^^^^^^^^^
+This phase is completed by the leaders of the organization
+
+Evaluation
+^^^^^^^^^^^^^^
+- End of course test, or several tests throughout the process to evaluate trainees ability to decipher encoded commands.
+- A performance test on a sandbox range can also be given to trainees.
