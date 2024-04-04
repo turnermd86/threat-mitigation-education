@@ -19,6 +19,8 @@ How My Study Was Conducted
 #. Rescan malware using YARA signatures.
 #. Document success/failure detection results
 
+``***add sections for sysmon, procmon, process explorer***``
+
 
 Methodological Approach
 =======================
