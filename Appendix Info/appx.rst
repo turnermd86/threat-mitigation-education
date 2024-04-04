@@ -157,10 +157,6 @@ Analysis
 - Resource Analysis
 - Facilities required
 
-  - Classroom
-  - XXXX
-  - XXXX
-
 Design
 ^^^^^^^^^^^^^^
 - Task Training List
@@ -168,15 +164,6 @@ Design
     - Task 1:
     - Task X:
 
-- Course Flow / Training Strategy
-
-    - Module 99 - Administrative Actions
-    - Module 10 - XXXX
-    - Module 20 - XXXX
-    - Module 30 - XXXX
-    - Module 40 - XXXX
-    - Module 50 - XXXX
-    - Module 60 - XXXX
   
 Development
 ^^^^^^^^^^^^^^
