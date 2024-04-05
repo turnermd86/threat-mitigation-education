@@ -30,3 +30,5 @@ Methodological Approach
 #. Determine the detection process’s effectiveness, efficiency, and speed in defining various malicious or benign encoded commands using default configurations/tuned configurations (if applicable) to see the impact on performance and then document results.
 #. Static testing findings and discussion
 #. Live testing findings and discussion
+
+.. image:: /images/HomeNet.jpg
