@@ -143,6 +143,30 @@ jar
 
 #. Netwire - sha256: ``022a25c3b9a1973f3bf01598cf22ae87640fa8d71c8564bda601c43249df09a9``
 
+ps1
+-------
+
+#. YellowCockatoo - sha256: ``82f73f413984430b551ed6ff796f2e36f21014ac389c50bca857a1fec25277aa``
+
+#. XWorm - sha256: ``925dcca433ad653cb99eea5318246960851c4dfd69d67cbb978578494af79dcc``
+
+#. Vjw0rm - sha256: ``860cae2ca6d44d8d9a34df314e7b3f1a64116f2ebe6279ed160fc2f0d7ebea95``
+
+#. VenomRAT - sha256: ``b99161d933f023795afd287915c50a92df244e5041715c3381733e30b666fd3b``
+
+#. TrickBot - sha256: ``e8b0f17e0e9fe91cd09f286a546dc554ee2c390139d6c4cf5b12aadd1ab76833``
+
+#. Stealerium - sha256: ``9a08bc42590ac64927b41f225a79a84fc58bfcfa215d27bc09cfd19137615847``
+
+#. Stealc - sha256: ``9ffcbb79f453876587c2a46a1eb320dae890d548d8bfa3df0f58abaf748c6d77``
+
+#. SocGholish - sha256: ``6dafe5616472a51748e01c65861640b3769ee166ec368e4ad41a0ad5be54f81c``
+
+#. SnakeKeylogger - sha256: ``84dbd6ec8da76543febdcadfd7021992b1b1f95ac11327517795b621a6b183d4``
+
+#. Smoke Loader - sha256: ``06db102d1c5d9386cd8d13e22237b286e4ecf1869c84cc70f17da0d421ccad3d``
+
+
 ISD Notes
 ============
 
