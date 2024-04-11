@@ -4,7 +4,8 @@ How My Study Was Conducted
 ==========================
 #. In-depth review of existing literature.
 #. Source, study, and categorize types of malware that use encoded commands (MalwareBazaar).
-#. Execute practical aspects of research in a lab environment. 
+#. Execute practical aspects of research in a lab environment.
+ 
     - accuracy
     - accuracy
     - accuracy
@@ -35,3 +36,5 @@ Methodological Approach
 #. Live testing findings and discussion
 
 .. image:: /images/HomeNet.jpg
+
+.. image:: /images/HomeNet1.jpg
