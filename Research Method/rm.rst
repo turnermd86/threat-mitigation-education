@@ -35,6 +35,6 @@ Methodological Approach
 #. Static testing findings and discussion
 #. Live testing findings and discussion
 
-.. image:: /images/HomeNet.jpg
-
 .. image:: /images/HomeNet1.jpg
+
+.. image:: /images/HomeNet2.jpg
