@@ -146,6 +146,8 @@ jar
 ps1
 -------
 
+#. CobaltStrike - sha256: ``7e86fc3541ca2a8898c9f8c9c5a2dd5602b6d3b88d7b3857cacfa0503232e4a4``
+
 #. YellowCockatoo - sha256: ``82f73f413984430b551ed6ff796f2e36f21014ac389c50bca857a1fec25277aa``
 
 #. XWorm - sha256: ``925dcca433ad653cb99eea5318246960851c4dfd69d67cbb978578494af79dcc``
@@ -163,9 +165,6 @@ ps1
 #. SocGholish - sha256: ``6dafe5616472a51748e01c65861640b3769ee166ec368e4ad41a0ad5be54f81c``
 
 #. SnakeKeylogger - sha256: ``84dbd6ec8da76543febdcadfd7021992b1b1f95ac11327517795b621a6b183d4``
-
-#. Smoke Loader - sha256: ``06db102d1c5d9386cd8d13e22237b286e4ecf1869c84cc70f17da0d421ccad3d``
-
 
 ISD Notes
 ============

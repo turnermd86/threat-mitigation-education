@@ -5,6 +5,10 @@ How My Study Was Conducted
 #. In-depth review of existing literature.
 #. Source, study, and categorize types of malware that use encoded commands (MalwareBazaar).
 #. Execute practical aspects of research in a lab environment. 
+    - accuracy
+    - accuracy
+    - accuracy
+    - accuracy
 #. Run static malware testing on a machine in a sandbox.
 #. Conduct default configuration testing. Measure the time and accuracy of the process. Attempt to identify false positives and negatives.
 #. Use a deobfuscation tool to decode malware samples when practical.
@@ -19,9 +23,8 @@ How My Study Was Conducted
 #. Rescan malware using YARA signatures.
 #. Document success/failure detection results
 
-.. note:: Add sections for wazuh, InetSim, sysmon, procmon, and process explorer.
-    Run through YARA. 
-    Come up with different methodological approach
+.. note:: Add sections for wazuh, InetSim, sysmon, procmon, process explorer, IAT, PEView, PowerDecode
+    
 
 
 Methodological Approach
