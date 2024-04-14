@@ -6,19 +6,27 @@ How My Study Was Conducted
 #. Source, study, and categorize types of malware that use encoded commands (MalwareBazaar).
 #. Execute practical aspects of research in a lab environment.
  
-    - accuracy
-    - accuracy
-    - accuracy
-    - accuracy
-#. Run static malware testing on a machine in a sandbox.
-#. Conduct default configuration testing. Measure the time and accuracy of the process. Attempt to identify false positives and negatives.
-#. Use a deobfuscation tool to decode malware samples when practical.
-#. Tune the process to see the impact of time and accuracy and re-run the test. (if applicable)
-#. Compare results between speed and accuracy of tuning tests.
-#. Run multiple test rounds and refine testing procedures. If the results are the same after two rounds of testing, document the details of the findings and move on to the following malware or process.
-#. Document findings: speed/accuracy metrics, false positives, and monitor default/tuned processes.
+    - Create sandbox environment Windows 10 with flare-vm installed. (https://github.com/mandiant/flare-vm)
+    - Run static malware testing in a sandbox
+     
+      - Submit hash to VirusTotal to get additional information, such as contacted domains, ips, urls, dropped/bundled files
+      - For portable executables, use PEView.exe, PEStudio.exe, and FLOSS
+      - For PowerShell scripts, use strings.exe and PowerDecode
+
+    - Run dynamic malware testing in a sandbox
+  
+      - Detonate malware using InetSim to capture network connection attempts
+      - Analyze network traffic via WireShark to glean further information.
+
+  
+      - Detonate malware in isolation to monitor activity when no internet is present
+          .. note:: Ensure proc
+
+ 
+  
+
 #. Run live malware on a vulnerable machine in a sandbox.
-#. Analyze network traffic logs to glean further information.
+#. 
 #. Scan malware using existing YARA signatures.
 #. If no signatures exist, attempt to create a detection signature.
 #. Rescan malware using YARA signatures.
@@ -35,6 +43,8 @@ Methodological Approach
 #. Static testing findings and discussion
 #. Live testing findings and discussion
 
-.. image:: /images/HomeNet1.jpg
 
-.. image:: /images/HomeNet2.jpg
+.. figure:: /images/HomeNet3.jpg
+
+        Figure 1. Home Net in VMWare Workstation 17 Pro
+
